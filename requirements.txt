@@ -1,0 +1,9 @@
+Librerias requeridas:
+
+import cv2, numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+Se utilizo:
+
+Python 3.13.7
